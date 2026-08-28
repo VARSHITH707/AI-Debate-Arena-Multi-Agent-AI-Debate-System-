@@ -14,8 +14,9 @@ A **Multi-Agent AI Debate System** where autonomous AI agents debate controversi
 
 🚀 **Try the deployed app here**
 
-Hugging Face Demo:  
-[Demo](https://varshithreddym-ai-debate.hf.space)
+[Demo](https://ai-debate-arena-multi-agent-ai-debate.onrender.com)
+
+> Hosted on Render's free tier — it may take ~30-50s to wake up on the first request after a period of inactivity.
 
 ---
 
