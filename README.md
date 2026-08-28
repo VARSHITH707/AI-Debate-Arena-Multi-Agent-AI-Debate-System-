@@ -90,7 +90,7 @@ Debate Analyzer summarizes strengths and weaknesses
 Clone repository
 
 ```bash
-git clone https://github.com/Varshith-Reddy-M/Multi-agent-AI-debate-system.git
+git clone https://github.com/VARSHITH707/AI-Debate-Arena-Multi-Agent-AI-Debate-System-.git
 ```
 
 Move into project

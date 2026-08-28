@@ -1,9 +1,15 @@
 # agents.py
 
 import os
+import sys
 import time
 from openai import OpenAI
 from dotenv import load_dotenv
+
+# Windows consoles default to cp1252, which can't print characters
+# some models emit (e.g. non-breaking hyphen U+2011); force UTF-8 so
+# a print() never throws mid-stream and silently kills a response.
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 
 # Load env
